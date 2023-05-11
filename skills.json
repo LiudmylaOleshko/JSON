@@ -1,0 +1,19 @@
+{
+"HARD SKILLS":[
+        {
+        "Operating System":["UNIX", "Microsoft Windows"]
+        },
+        {
+        "Browsers":["Chrome","Microsoft Edge", "Opera"]
+        },
+        {
+        "Bug Tracking":["Jira","Bugzilla"]
+        },
+        {
+        "Tools":["Postman", "GitHub","Fiddler", "Charles", "JMeter"]
+        }
+                ],
+"SOFT SKILLS":[
+        "purposefulness","self-organization","communication","responsibility","multitasking","attentiveness"]
+}
+
